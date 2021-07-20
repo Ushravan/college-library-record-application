@@ -1,6 +1,6 @@
 # college-library-record-application
-  INTRODUCTION
-  LIBRARY RECORD APPLICATION
+#  INTRODUCTION
+  **LIBRARY RECORD APPLICATION**
 
 This java project on college library record application ,which provided a lot of their user.
 The objective and scope of my Library Record Application is to record the details various activities of user .It will simplifies the task and reduse the paper work . During implementation every user will be given appropriate training to suit their specific needs .specific support will also be provided at key points with in the academic calendar .Training will be trained as the new is college Library Record Application rolled out to your area of responsibility.
@@ -9,9 +9,8 @@ Hence the management system for the college management has been designed to remo
 
 
 
+**ABSTRACT**
 
-
-				ABSTRACT
 The client uses MS Excel, and maintains their records, however it is not possible them to share the data in multiple system in multi user environment , there is lot of duplicate work , and chance of mistake . When the records are changed they need to update each and every excel file.
 There is no option to find and print previous saved records. There is no security, any body can access any report and sensitive data, also no reports to summary report.
  This Library Record Application is used to overcome the entire problem which they are facing currently and making complete atomization of manual system to computerized system.     
@@ -43,7 +42,7 @@ Reduce the cost of maintenance.
 
 
 
-PROJECT CTEGORY: 
+**PROJECT CTEGORY:** 
 The project is entitled “Library Record Application”. Category RDBMS. Hence before discussing any thing about the project Library Record Application, a brief discussion of related basic concept is necessary.
 As a software developer or as a programmer, we are expected to design and develop and the program that works correctly, efficiently and the time is easy to be used by every person, who may or may not be well versed with computer and its capabilities.
 	The project is based on the Library Record Application , Being the information System it requires extensive use of some Data base Management System to store , manipulate and handle the huge and complex record , in RDBMS we can act various attributes with the database like editing the records, Modification deletions of the records, View the records in various formats, listing the database etc. Project can be categorized by their functioning and relation with their database and other tools can categorize project. Since this project has been developed based on the Relation Data Base Management System So Proposed system comes under RDBMS. 
@@ -54,7 +53,7 @@ As a software developer or as a programmer, we are expected to design and develo
 
 
 
-SYSTEM DESIGN(Introduction)
+**SYSTEM DESIGN(Introduction)**
 The systems objectives outlined during the feasibility study serve as the basic from which the work of system design is initiated. Much of the activities involved at this stage is of technical nature requiring a certain degree of experience in designing systems, sound knowledge of computer related technology and through understanding of computers available in the market and the various facilities provided by the vendors. Nevertheless, a system cannot be designed in isolation without the active involvement of the user. The user has a vital role to play at this stage too.  As we know that data collected during feasibility study wills we utilized systematically  during the system design. It should, however be kept in mind that detailed study of the existing system is not necessarily over with the completion of the feasibility study. 
 Depending on the plan of feasibility study, the level of detailed study will vary and the system design stage will also vary in the amount of investigation that still needs to be done .This investigation is generally an urgent activity during the system. Sometimes, but rarely, this investigation may form a separate stage between feasibility study and computer system design. Designing a new system is a creative process, which calls for logical as well as lateral thinking. The logical approach involves systematic moves towards the end product keeping in mind the capabilities of the personnel and the equipment at each decision making step. Lateral thought implies encompassing of ideas beyond the usual functions and equipment. This is to ensure that no efforts are being made to fit previous solutions into new situations.
 
@@ -65,7 +64,7 @@ Depending on the plan of feasibility study, the level of detailed study will var
 
 
 
-System Design Considerations
+**System Design Considerations**
 The system design process is not a step-by-step adherence of clear procedures and guidelines .Though ,  certain clear procedures and guidelines have emerged in recent  days ,But still much of design work depends on knowledge and experience of the designer .When designer starts working on system design, he will face different type of problems. Many of these will be due to constraints imposed by the user or limitations of the hardware and software available in the market. Sometimes, it is difficult to enumerate the complexity of the problems and solutions there of  since the variety of likely problems is so great and no solutions are exactly similar. However, following considerations should be kept in mind during the system designing phase:
 
 Design Objectives
